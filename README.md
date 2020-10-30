@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=connor.mcquillan&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 <!--
 **cpjmcquillan/cpjmcquillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
