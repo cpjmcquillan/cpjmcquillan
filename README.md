@@ -1,8 +1,10 @@
-### Hi there 👋
+### Contact me
+[![Connor's LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cpjmcquillan/)
 
+### Some github stats
 ![Connor's github stats](https://github-readme-stats.vercel.app/api?username=cpjmcquillan&theme=dark)
 
-
+### What I'm listening to
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=connor.mcquillan&cover_image=true&theme=default)
 
 <!--
