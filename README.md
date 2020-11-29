@@ -4,9 +4,6 @@
 ### Some github stats
 ![Connor's github stats](https://github-readme-stats.vercel.app/api?username=cpjmcquillan&theme=dark)
 
-### What I'm listening to
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=connor.mcquillan&cover_image=true&theme=default)
-
 <!--
 **cpjmcquillan/cpjmcquillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
