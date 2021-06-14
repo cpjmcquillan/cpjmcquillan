@@ -1,4 +1,4 @@
-# Hey, I'm Connor 🤖
+# Hey, I'm Connor
 
 [![Years Badge](https://badges.pufler.dev/years/cpjmcquillan)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/all/cpjmcquillan)](https://badges.pufler.dev)
