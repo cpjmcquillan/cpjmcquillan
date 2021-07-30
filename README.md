@@ -4,6 +4,7 @@
 [![Commits Badge](https://badges.pufler.dev/commits/all/cpjmcquillan)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/cpjmcquillan)](https://badges.pufler.dev)
 
+- 🤖 I work at... [thoughtbot](https://thoughtbot.com)
 - 🔭 I’m currently working on... some personal projects
 - 🚀 I previously worked on... [this awesome project](https://github.com/DFE-Digital/teaching-vacancies)
 - 🌱 I help maintain... [govuk-components](https://github.com/DFE-Digital/govuk-components)
