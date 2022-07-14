@@ -1,5 +1,3 @@
 # hey, i'm connor.
 
-[![Years Badge](https://badges.pufler.dev/years/cpjmcquillan)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/all/cpjmcquillan)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/cpjmcquillan)](https://badges.pufler.dev)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cpjmcquillan&theme=github_dark)
